@@ -1,5 +1,5 @@
 """
-Github Repo: 
+Github Repo: https://github.com/arysuri23/Suri_lab3
 """
 import sqlite3
 
